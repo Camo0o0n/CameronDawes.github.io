@@ -7,5 +7,5 @@
     height: 50px;
     background-color: red;
     /* Center horizontally*/
-    margin: 0 auto;
+    margin: auto auto;
 }
